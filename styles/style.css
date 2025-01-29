@@ -1,4 +1,4 @@
-.paginicial{background-color: rgb(50, 147, 192);
+.paginicial{background-color: rgb(1, 165, 241);
 background-size:cover;
 height: 100%;
 
@@ -35,7 +35,7 @@ height: auto;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background:rgba(75, 210, 237, 0.626) ;
+  background:rgba(48, 156, 245, 0.904) ;
   background-size: cover;
   backdrop-filter: blur(10px);
   
@@ -147,7 +147,7 @@ transition: background-color 0.3s;
 color: #000000;
 }
 .contenido{ flex: 3;
-background-color: #01aef3c2;
+background-color: #5ecaf5c2;
 padding: 20px;
 border-radius: 5px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.961);

@@ -1,4 +1,4 @@
-.paginicial{background-color: rgb(1, 165, 241);
+.paginicial{background-color: rgb(137, 208, 241);
 background-size:cover;
 height: 100%;
 
@@ -35,7 +35,7 @@ height: auto;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background:rgba(48, 156, 245, 0.904) ;
+  background:rgb(100, 206, 255) ;
   background-size: cover;
   backdrop-filter: blur(10px);
   
@@ -64,7 +64,7 @@ display: inline-block;}
     margin-top:auto;
   }footer {
     margin-top: auto; /* Empuja el footer hacia abajo */
-    background-color: #abccfd;
+    background-color: #72bdfa;
     text-align: center;
     padding: 20px;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
@@ -84,7 +84,7 @@ display: inline-block;}
   }
 
   .footer-button:hover {
-    background-color: #0056b3; /* Oscurece el color al pasar el mouse */
+    background-color: #0056b3; 
   }
   .footer-content{display: flex;
     justify-content: space-between;
@@ -183,7 +183,7 @@ margin-bottom: 20px;}
   padding-bottom: 5px;
 
   border: 10px rgb(0, 0, 0);
-  background-color: #4e96f5;
+  background-color: #7db5ff;
   font-family: "Jaro", sans-serif;
   font-size:3rem;
   font-optical-sizing:auto;
@@ -191,7 +191,7 @@ margin-bottom: 20px;}
   font-style:italic;
   color:black;
   font-size:2em;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.815);
 
   text-align: center;
   margin-bottom: 20px;
@@ -205,7 +205,7 @@ margin-bottom: 20px;}
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #63acecc9;
+    background-color: #7cbffa;
     background-size: cover; 
     flex-direction: column;}
 
@@ -219,7 +219,7 @@ margin-bottom: 20px;}
        .fondomuro{background-image:url(../images/retro3.png);
       background-size: cover;}
 
-       .cuerpoorganigrama{background-color: #5178b3;
+       .cuerpoorganigrama{background-color: #7cbffa;
         background-size: cover;
         display:flex;
       justify-content: center;

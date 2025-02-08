@@ -1,4 +1,4 @@
-.paginicial{background-color: rgb(137, 208, 241);
+.paginicial{background-color: rgb(136, 217, 255);
 background-size:cover;
 height: 100%;
 
@@ -35,7 +35,7 @@ height: auto;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background:rgb(100, 206, 255) ;
+  background:rgb(111, 207, 252) ;
   background-size: cover;
   backdrop-filter: blur(10px);
   
@@ -64,7 +64,7 @@ display: inline-block;}
     margin-top:auto;
   }footer {
     margin-top: auto; /* Empuja el footer hacia abajo */
-    background-color: #72bdfa;
+    background-color: #6fd1ff;
     text-align: center;
     padding: 20px;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
@@ -147,7 +147,7 @@ transition: background-color 0.3s;
 color: #000000;
 }
 .contenido{ flex: 3;
-background-color: #5ecaf5c2;
+background-color: #ade8ff;
 padding: 20px;
 border-radius: 5px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.961);
@@ -157,7 +157,7 @@ height: auto;
 margin-bottom: 20px;
 }
 .imagenepet{max-width: 500px ;}
-.fondo{background-color: #abccfd;
+.fondo{background-color: #44d3ff;
 background-size: cover;}
 
 .geolocalizacion{  display: flex;
@@ -183,7 +183,7 @@ margin-bottom: 20px;}
   padding-bottom: 5px;
 
   border: 10px rgb(0, 0, 0);
-  background-color: #7db5ff;
+  background-color: #45caff;
   font-family: "Jaro", sans-serif;
   font-size:3rem;
   font-optical-sizing:auto;
@@ -205,7 +205,7 @@ margin-bottom: 20px;}
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #7cbffa;
+    background-color: #99ccf8;
     background-size: cover; 
     flex-direction: column;}
 
